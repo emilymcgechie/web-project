@@ -2,8 +2,15 @@
     background-color: white;
     text-align: center;
     font-family: 'Bubbler One', sans-serif;
+}    
+
+body {
+  /*background-image: url("../images/burger_pic.jpg");
+  background-size: contain;*/
+  /*background-color: green;*/
 }
-h2{
+
+h2 {
   font-size: 60px;
   margin-top: 100px;
 
